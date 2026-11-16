@@ -1,0 +1,6 @@
+{
+  "name": "IronPit",
+  "description": "Top-down physics-based BattleBots arena combat game with custom robotic weaponry, lethal arena hazards, and a workshop upgrade progression system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
